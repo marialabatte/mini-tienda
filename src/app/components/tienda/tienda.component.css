@@ -1,0 +1,16 @@
+td, th {
+    text-align: left;
+    vertical-align: middle;
+}
+.total {
+    margin: 0 35%;
+    text-align: center;
+}
+.titulo {
+    text-align: center;
+    margin: 10px;
+}
+.footer {
+    text-align: center;
+    width: 100%;
+}
